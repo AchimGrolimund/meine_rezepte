@@ -1,0 +1,6 @@
+site_name: Rezepte
+theme:
+  name: material
+  locale: de
+  navigation_depth: 1
+  prev_next_buttons_location: none
