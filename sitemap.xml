@@ -1,52 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>None</loc>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/</loc>
          <lastmod>2023-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Desserts/blueberry_zitrone-cupcakes/</loc>
          <lastmod>2023-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Desserts/tiramisu/</loc>
          <lastmod>2023-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Desserts/waehenguss_a_la_mama/</loc>
          <lastmod>2023-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/aelplermagronen/</loc>
          <lastmod>2023-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/bechamel_sauce_a_la_mama/</loc>
          <lastmod>2023-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/eglifilets-im-bierteig-perches-frites/</loc>
          <lastmod>2023-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/felchen-im-bierteig/</loc>
          <lastmod>2023-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/gigos_a_la_mama/</loc>
          <lastmod>2023-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>None</loc>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/partyfilet/</loc>
+         <lastmod>2023-04-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/piroggen-polnische-teigtaschen/</loc>
+         <lastmod>2023-04-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/rindshuft_stroganoff/</loc>
+         <lastmod>2023-04-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/steirisches-backhendl/</loc>
+         <lastmod>2023-04-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Salate/couscous/</loc>
          <lastmod>2023-04-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
