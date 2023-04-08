@@ -21,4 +21,3 @@
 
 ## ANLEITUNGEN
 1. alle Zutaten für den Teig und das Topping zimmerwarm verarbeiten!Für mein zweites Cupcake-Experiment habe ich mir die Spritztülle «Deko-Queen»von Birkmann gekauft. Das Einfüllen und Kühlstellen vom Topping geht damit ganz einfach. Nur das Auftragen muss ich natürlich noch üben, aber der Durchmesser vom Aufsatz ist meiner Meinung nach perfekt. Das was vom Topping im Behälter zurückbleibt, würde noch gut für ein Cupcake reichen. Dies ist aber mein einziger Kritikpunkt.
--m
