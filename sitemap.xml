@@ -11,7 +11,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Backwaren/brezel-mit-obazta/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://achimgrolimund.github.io/meine_rezepte/Backwaren/landbrot-mit-sesam/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Desserts/apfeltaschen/</loc>
          <lastmod>2023-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -27,6 +37,11 @@
     </url>
     <url>
          <loc>https://achimgrolimund.github.io/meine_rezepte/Desserts/cupcakes-caillier/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Desserts/daenische-spezialitaet-kokosschnitten/</loc>
          <lastmod>2023-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -57,6 +72,21 @@
     </url>
     <url>
          <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/bechamel_sauce_a_la_mama/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/bolonaise/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/chili-con-carne/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/cinque-pi-5p/</loc>
          <lastmod>2023-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -92,6 +122,16 @@
     </url>
     <url>
          <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/steirisches-backhendl/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Salate/ceasars-salad/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Salate/chicoree-triangoli/</loc>
          <lastmod>2023-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
