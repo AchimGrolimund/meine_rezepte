@@ -21,6 +21,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Beilagen/Blumenkohl/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Desserts/Cookies/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://achimgrolimund.github.io/meine_rezepte/Desserts/apfeltaschen/</loc>
          <lastmod>2023-04-08</lastmod>
          <changefreq>daily</changefreq>
@@ -32,6 +42,11 @@
     </url>
     <url>
          <loc>https://achimgrolimund.github.io/meine_rezepte/Desserts/blueberry_zitrone-cupcakes/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Desserts/creme-brulee/</loc>
          <lastmod>2023-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -66,7 +81,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Div/gemueserahm/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Div/gorgonzola-sauce/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Div/guacamole/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/aelplermagronen/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/basler-mehlsuppe/</loc>
          <lastmod>2023-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -76,7 +111,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/boerek-mit-feta/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/bohnengratin/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/bolonaise/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/braetkuegeli-mit-weisser-sauce/</loc>
          <lastmod>2023-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -91,7 +141,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/curry-bananen-mit-reis/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/eglifilets-im-bierteig-perches-frites/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/ei-auf-toast/</loc>
          <lastmod>2023-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -101,7 +161,52 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/filetwuerfel-mit-cantadu/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/flammkuchen-elsaesser-art/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/flammkuchen-helene/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/flammkuchen-meckmeck/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/fondue/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/frikadellen/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/geschnetzeltes-an-brauner-sauce/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/geschnetzeltes-kalbfleisch-an-balsamicosauce/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/gigos_a_la_mama/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/gnocchi-al-quattro-formaggi/</loc>
          <lastmod>2023-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -122,6 +227,11 @@
     </url>
     <url>
          <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/steirisches-backhendl/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Salate/bohnensalat/</loc>
          <lastmod>2023-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
