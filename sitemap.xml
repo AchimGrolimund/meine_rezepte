@@ -2,72 +2,102 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://achimgrolimund.github.io/meine_rezepte/</loc>
-         <lastmod>2023-04-07</lastmod>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Backwaren/baumnuss-ciabatta/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Backwaren/landbrot-mit-sesam/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Desserts/banane-ovo-cupcakes/</loc>
+         <lastmod>2023-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://achimgrolimund.github.io/meine_rezepte/Desserts/blueberry_zitrone-cupcakes/</loc>
-         <lastmod>2023-04-07</lastmod>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Desserts/cupcakes-caillier/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Desserts/haferflockenkekse/</loc>
+         <lastmod>2023-04-08</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://achimgrolimund.github.io/meine_rezepte/Desserts/lindor-karamell-cupcakes/</loc>
+         <lastmod>2023-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://achimgrolimund.github.io/meine_rezepte/Desserts/tiramisu/</loc>
-         <lastmod>2023-04-07</lastmod>
+         <lastmod>2023-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://achimgrolimund.github.io/meine_rezepte/Desserts/waehenguss_a_la_mama/</loc>
-         <lastmod>2023-04-07</lastmod>
+         <lastmod>2023-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/aelplermagronen/</loc>
-         <lastmod>2023-04-07</lastmod>
+         <lastmod>2023-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/bechamel_sauce_a_la_mama/</loc>
-         <lastmod>2023-04-07</lastmod>
+         <lastmod>2023-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/eglifilets-im-bierteig-perches-frites/</loc>
-         <lastmod>2023-04-07</lastmod>
+         <lastmod>2023-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/felchen-im-bierteig/</loc>
-         <lastmod>2023-04-07</lastmod>
+         <lastmod>2023-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/gigos_a_la_mama/</loc>
-         <lastmod>2023-04-07</lastmod>
+         <lastmod>2023-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/partyfilet/</loc>
-         <lastmod>2023-04-07</lastmod>
+         <lastmod>2023-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/piroggen-polnische-teigtaschen/</loc>
-         <lastmod>2023-04-07</lastmod>
+         <lastmod>2023-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/rindshuft_stroganoff/</loc>
-         <lastmod>2023-04-07</lastmod>
+         <lastmod>2023-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://achimgrolimund.github.io/meine_rezepte/Hauptgerichte/steirisches-backhendl/</loc>
-         <lastmod>2023-04-07</lastmod>
+         <lastmod>2023-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://achimgrolimund.github.io/meine_rezepte/Salate/couscous/</loc>
-         <lastmod>2023-04-07</lastmod>
+         <lastmod>2023-04-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
