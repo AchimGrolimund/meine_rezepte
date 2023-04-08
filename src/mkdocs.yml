@@ -1,6 +1,10 @@
 site_name: Rezepte
+site_url: https://achimgrolimund.github.io/meine_rezepte/
+site_author: Achim Grolimund
 theme:
   name: material
   locale: de
-  navigation_depth: 1
-  prev_next_buttons_location: none
+
+extra_css:
+  - custom_theme/css/extra.css
+
