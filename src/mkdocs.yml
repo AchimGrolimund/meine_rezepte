@@ -5,6 +5,7 @@ theme:
   name: material
   locale: de
 
+extra_javascript:
+  - custom_theme/js/extra.js
 extra_css:
   - custom_theme/css/extra.css
-
